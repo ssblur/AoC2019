@@ -1,5 +1,4 @@
 use strict;
-## TODO: This
 ## Load input.txt.
 open F, '<', 'input.txt'
     or die "Cannot open input.txt ($!)";
